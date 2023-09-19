@@ -3,6 +3,7 @@
 I am a Norwegian student in Front-End-Development at Noroff Bergen. 
 Although novice, I am getting better gradually. 
 For any inquiries, i can be contacted via email at: erikhhju@gmail.com
+Portfolio page :https://glittering-alfajores-538a58.netlify.app/
 
 ## My top 4: 
 1. [Dog-Blog](https://github.com/Noroff-FEU-Assignments/project-exam-1-ErikHHJ)
